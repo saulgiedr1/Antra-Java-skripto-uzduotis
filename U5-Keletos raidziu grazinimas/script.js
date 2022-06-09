@@ -8,9 +8,9 @@ window.onload=function() {
     let rezultatas2;   
 
     
-    rezultatas=trijuRaidziuGrazinimas(zodis, zodis,zodis );
-    rezultatas1=trijuRaidziuGrazinimas(zodis1, zodis1,zodis1 );
-    rezultatas2=trijuRaidziuGrazinimas(zodis2, zodis2,zodis2 );
+    rezultatas=trijuRaidziuGrazinimas(zodis );
+    rezultatas1=trijuRaidziuGrazinimas(zodis1);
+    rezultatas2=trijuRaidziuGrazinimas(zodis2);
 
     console.log(rezultatas);
     console.log(rezultatas1);
@@ -18,6 +18,6 @@ window.onload=function() {
 
 }
 
-function trijuRaidziuGrazinimas(a ,b,c ) {
-    return a[2] +b[3]+c[4];
+function trijuRaidziuGrazinimas(a) {
+    return a[2] +a[3]+a[4];
 }
