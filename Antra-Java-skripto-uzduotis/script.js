@@ -8,6 +8,7 @@ window.onload =function() {
     let raide=zodis[0];
     let raide1=zodis1[0];
     let raide2=zodis2[0];
+
     let pirmoji;
     let pirmoji1;
     let pirmoji2;     
