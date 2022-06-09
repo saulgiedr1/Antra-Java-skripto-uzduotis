@@ -2,16 +2,16 @@ window.onload=function() {
 
     let zodis= "lokys";    
     
-    let raide= zodis.indexOf("s");
+    let raide= zodis.indexOf("k");
    
     let paskutine;   
 
-    paskutine=paskutineRaide(raide);   
+    paskutine=raideNr(raide);   
 
   console.log(paskutine); 
 
 
 }
-function  paskutineRaide(a){
+function  raideNr(a){
     return a;
 }
