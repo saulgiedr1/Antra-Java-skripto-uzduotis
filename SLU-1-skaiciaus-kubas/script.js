@@ -2,7 +2,7 @@ window.onload=function() {
 let skaicius;
 let skaicius1;
 
-skaicius=117;
+skaicius=-117;
 skaicius1=258;
 
 kubas=skaiciausKubas(skaicius);
