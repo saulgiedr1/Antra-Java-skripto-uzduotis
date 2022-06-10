@@ -15,7 +15,7 @@ window.onload=function(){
     dalinys1=141;
     daliklis1=18;
 
-    dalinys2=11;
+    dalinys2=10;
     daliklis2=2;
 
     liekana=liekanosRadimas(dalinys, daliklis);
