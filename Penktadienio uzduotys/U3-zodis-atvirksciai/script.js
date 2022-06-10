@@ -3,7 +3,7 @@ window.onload=function() {
     let zodis1;
     
     let apsuktas;
-    let apsuktas1
+    let apsuktas1;
 
     zodis="kava"
     zodis1="java"
