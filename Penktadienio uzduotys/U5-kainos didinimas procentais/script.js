@@ -22,5 +22,6 @@ window.onload=function(){
 
 }
 function kainosDidinimas(a, b){
-    return a+(a*b)/100; 
+   return a+(a*b)/100; 
+  
 }
