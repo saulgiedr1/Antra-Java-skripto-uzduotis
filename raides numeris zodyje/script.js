@@ -1,17 +1,17 @@
 window.onload=function() {
+    let zodis;
+    zodis= "lokys";  
 
-    let zodis= "lokys";    
     
-    let raide= zodis.indexOf("k");
-   
-    let paskutine;   
+    
+    let numeris;   
 
-    paskutine=raideNr(raide);   
+    numeris=raideNr(zodis);   
 
-  console.log(paskutine); 
+  console.log(numeris); 
 
 
 }
 function  raideNr(a){
-    return a;
+    return a.indexOf("y");
 }
