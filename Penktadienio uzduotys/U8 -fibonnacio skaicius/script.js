@@ -1,6 +1,7 @@
 window.onload=function(){
 
     let skaicius;
+    let skaicius1;
     let fibonacio;
     skaicius=12;
     skaicius1=78;
